@@ -1,5 +1,5 @@
 ## Was?
-**Die wahrscheinlich umfänglichste Sammlung an Altprotokollen zum Anfängerpraktikum** Physik an der TU Dortmund. _(Work-in-progress)_
+**Die wahrscheinlich umfänglichste Sammlung an Altprotokollen zum Anfängerpraktikum/Fortgeschrittenenpraktikum** Physik an der TU Dortmund.
 
 ## Warum?
 Viele Repos stellen zwar den Quellcode, aber keine PDFs zur Verfügung. Zur besseren Durchsuchbarkeit wurde daher diese Sammlung erstellt.
